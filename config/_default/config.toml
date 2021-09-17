@@ -1,0 +1,14 @@
+_merge = "deep"
+
+languageCode = 'fr-fr'
+title = 'Direction Générale de la Police Nationale'
+
+[module]
+[[module.imports]]
+path = 'github.com/disic/frago'
+
+[outputs]
+ home    = ["HTML","JSON"]
+
+[params]
+  organisation = "Direction Générale de la Police Nationale"

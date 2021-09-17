@@ -1,0 +1,14 @@
+website: https://www.pre-plainte-en-ligne.gouv.fr/
+contacts:
+  email: __CONTACT_EMAIL__
+  address: __CONTACT_ADDRESS__
+audits:
+  "2021-09-17":
+    guidelines: "RGAA 4.1"
+    condition: "Auto-évaluation"
+    technologies: ["HTML", "CSS", "JavaScript"]
+    tools: ["HeadingsMap", "Web Developer Toolbar"]
+    environment: ["MacOS Catalina 10.15.7", "Firefox 91.0.2"]
+  contact:
+    email: __CONTACT_AUDIT_01_EMAIL__
+    address: __CONTACT_AUDIT_01_ADDRESS__
