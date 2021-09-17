@@ -12,3 +12,4 @@ path = 'github.com/disic/frago'
 
 [params]
   organisation = "Direction Générale de la Police Nationale"
+  robots = "noindex, nofollow"
