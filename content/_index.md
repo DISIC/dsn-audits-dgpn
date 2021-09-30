@@ -1,6 +1,6 @@
 +++
 title = "Accueil"
-description = "Ministère des affaires étrangères - Expertise pour mise en conformité de démarches en ligne"
+description = "Ministère de l'intérieur - Expertise pour mise en conformité de démarches en ligne"
 type = "projects"
 +++
 
