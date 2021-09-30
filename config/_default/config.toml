@@ -1,7 +1,7 @@
 _merge = "deep"
 
 languageCode = 'fr-fr'
-title = 'Direction Générale de la Police Nationale'
+title = 'Direction des ressources humaines du ministère des affaires étrangères'
 
 [module]
 [[module.imports]]
@@ -11,5 +11,5 @@ path = 'github.com/disic/frago'
  home    = ["HTML","JSON"]
 
 [params]
-  organisation = "Direction Générale de la Police Nationale"
+  organisation = "DRHMAE"
   robots = "noindex, nofollow"
