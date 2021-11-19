@@ -1,6 +1,6 @@
 +++
 title = "Accueil"
-description = "Ministère de l'intérieur - Expertise pour mise en conformité de démarches en ligne"
+description = "Direction Générale de la Police Nationale (ministère de l'Intérieur) – Mise en conformité de démarches en ligne"
 type = "projects"
 +++
 
